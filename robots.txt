@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-angka-top.github.io/sitemap.xml
